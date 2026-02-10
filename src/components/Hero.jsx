@@ -51,7 +51,7 @@ const Hero = () => {
                     <div className="flex-shrink-0 w-72 h-[420px] bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl overflow-hidden hover:border-accent-green/50 transition-all duration-300 group snap-center">
                         <div className="h-1/2 overflow-hidden relative">
                             <img
-                                src="/assets/distillate.png"
+                                src="/assets/distillate.jpg"
                                 alt="Distillate"
                                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
                             />
